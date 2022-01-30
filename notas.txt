@@ -1,0 +1,13 @@
+https://app.infinityfree.net/login
+U: edi
+P: IngElectronica100.
+
+https://cpanel.epizy.com/index.php
+
+U: epiz_28064385
+P: GdSU8x4JhJ7
+
+FTP
+Servidor: ftpupload.net
+Puerto: 21
+
