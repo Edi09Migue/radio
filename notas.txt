@@ -10,3 +10,5 @@ FTP
 Servidor: ftpupload.net
 Puerto: 21
 
+https://tunuevaradio.epizy.com/
+
